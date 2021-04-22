@@ -1,0 +1,24 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "Learn node and bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihaokx/conFusion.git"
+  },
+  "author": "Hao Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lihaokx/conFusion/issues"
+  },
+  "homepage": "https://github.com/lihaokx/conFusion#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
